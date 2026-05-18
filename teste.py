@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.image("Cerejeira.png")
-st.write("Site Letiícia 🌸")
-st.link_button("Acessar", "https://www.westwing.com.br/guiar/flor-de-cerejeira/")
+st.image("brasil.png")
+st.write("COPA 2026 🇧🇷")
+st.link_button("Acessar", "https://www.cbf.com.br/")
